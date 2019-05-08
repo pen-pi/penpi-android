@@ -22,8 +22,6 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.UUID;
 
-import static android.provider.AlarmClock.EXTRA_MESSAGE;
-
 
 public class ScanActivity extends AppCompatActivity {
     private static final String TAG = "DeviceListAdapter";
